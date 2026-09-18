@@ -3,8 +3,8 @@ os.system("cls")
 
 print("Bienvenido a la calculadora")
 
-num1=int(input("digite el primer numero:"))
-num2=int(input("digite el segundo numero:"))
+num1=int(input("digite el primer numero: "))
+num2=int(input("digite el segundo numero: "))
 
 suma=num1+num2
 multiplicacion=num1*num2
