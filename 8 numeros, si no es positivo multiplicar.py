@@ -11,4 +11,4 @@ if suma>0:
     print("los numeros brindados son positivos")
 else:
     multi=suma*num
-    print(f"los numeros no son positivos \n\nse procedera a multiplicarlos. \nla multiplicacion seria de {multi}")
+    print(f"los numeros no son positivos, se procedera a multiplicarlos. \n\nla multiplicacion seria de {multi}")
